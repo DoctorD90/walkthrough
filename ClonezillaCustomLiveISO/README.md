@@ -7,6 +7,7 @@ A bootable ISO will be produced with options to:
 - run as a default official version
 
 In this guide I will adopt 3 custom files for the boot and 1 custom script to be embeded:
+
 |File|Description|
 |:--|:--|
 |grub.cfg|Custom version of the official released one|
