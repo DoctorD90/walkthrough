@@ -1,4 +1,6 @@
 # walkthrough
-## A compendium with all walkthrough Im used to for personal reference and sharing attitude
+## A compendium with all walkthrough Im used to for personal and community reference
 
-- [ClonezillaCustomLiveISO](https://alberto.dietze.it/walkthrough/ClonezillaCustomLiveISO/)
+|Updated|Title|
+|:-:|:--|
+|_2020-08-10_|[ClonezillaCustomLiveISO](https://alberto.dietze.it/walkthrough/ClonezillaCustomLiveISO/)|
