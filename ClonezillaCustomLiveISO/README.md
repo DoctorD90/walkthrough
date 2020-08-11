@@ -21,7 +21,7 @@ Download in this folder the latest available [Zip version](https://clonezilla.or
 - Release: Stable (Debian based)
 - CPU architecture: AMD64 (uEFI support)
 
-Install required software
+Install the required software
 ```
 sudo apt-get update
 sudo apt-get install squashfs-tools xorriso 
