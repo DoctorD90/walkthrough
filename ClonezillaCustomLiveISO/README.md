@@ -24,7 +24,7 @@ Download in this folder the latest available [Zip version](https://clonezilla.or
 Install the required software
 ```
 sudo apt-get update
-sudo apt-get install squashfs-tools xorriso 
+sudo apt-get install squashfs-tools xorriso
 ```
 Create a variable with the name and version for an easy future update
 ```
