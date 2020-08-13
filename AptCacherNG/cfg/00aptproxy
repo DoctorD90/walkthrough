@@ -1,0 +1,5 @@
+Acquire {
+  HTTP::ProxyAutoDetect "/etc/apt/detect-http-proxy";
+  #HTTP::proxy "http://192.168.1.100:3142";
+  #HTTPS::proxy "http://192.168.1.100:3142";
+}
